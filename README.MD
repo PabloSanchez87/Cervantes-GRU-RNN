@@ -1,5 +1,7 @@
 # Cervantes-GRU-RNN
 
+![alt text](4484bea0-d07c-4458-a5fc-8592fdb410d9.png)
+
 Este proyecto entrena una red neuronal recurrente (GRU) para generar texto carácter a carácter, imitando el estilo del Quijote.
 
 El modelo fue entrenado desde cero utilizando únicamente el texto completo del Quijote, cargado desde el Proyecto Gutenberg. La idea no es competir con los grandes modelos actuales, sino comprender cómo una arquitectura sencilla puede aprender patrones estilísticos, de puntuación y cadencia propios de un autor como Cervantes.
